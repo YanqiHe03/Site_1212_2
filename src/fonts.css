@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'JosefinSans';
+  src: url('./fonts/JosefinSans.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lot';
+  src: url('./fonts/Lot-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ChillPixels-Mono';
+  src: url('./fonts/ChillPixels-Mono.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ChillPixels-Matrix';
+  src: url('./fonts/ChillPixels-Matrix.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ChillPixels-Maximal';
+  src: url('./fonts/ChillPixels-Maximal.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ChillPixels-Minimalism';
+  src: url('./fonts/ChillPixels-Minimalism.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'StretchPro';
+  src: url('./fonts/StretchPro.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  font-family: 'Montserrat', sans-serif;
+}
