@@ -173,7 +173,7 @@ export const projects: Project[] = [
     title: 'Starlights',
     timelineTitle: '<span class="font-lot">Starlights</span>',
     description:
-      'A real-time interactive music visualization system combining live performance with generative art',
+      'A music video for my own upcoming single',
     image: '/starlight_cover.webp',
     link: 'https://youtu.be/LUx8VNA-KDI',
     category: 'school',
