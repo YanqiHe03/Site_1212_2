@@ -168,6 +168,25 @@ export const projects: Project[] = [
     },
   },
   {
+    id: 'newcenturysupermarket',
+    year: 'Dec 2024',
+    title: 'New Century Supermarket',
+    timelineTitle: '<span class="font-lot">New Century Supermarket</span>',
+    description: 'An Experimental Short Film',
+    image: '/ncs_cover.png',
+    link: 'https://youtu.be/sIwwwy4KGIw',
+    category: 'personal',
+    formats: ['visual'],
+    video:
+      'https://www.youtube.com/embed/sIwwwy4KGIw',
+    sections: {
+      description: {
+        content:
+          'One Art is a montage inspired by an Elizabeth Bishop poem "One Art," exploring themes of loss and acceptance through visual narrative. Combining all kinds of footages from life stock footages to film clips, the short film progresses from acquisition to loss, emphasizing the central theme that "The art of losing is not hard to master."',
+      },
+    },
+  },
+  {
     id: 'starlights',
     year: 'May 2024',
     title: 'Starlights',
